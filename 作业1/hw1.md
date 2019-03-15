@@ -63,4 +63,5 @@
 
 ##### 用自己语言描述SWEBok或CMMI
 
-
+- SWEBok（Software Engineering Body of Knowledge）：
+  SWEBok是由IEEE Computer Society 构建软件生产的最佳实践与相关知识的框架，目的是为了克服软件危机。2014 V3版的SWEBok将知识分为软件工程实践和基础教育两个部分，一共包括了 15 个知识域（KAs），其中包括11个软件工程实践知识域，以及4个软件工程教育基础知识域。Software Requirements，Software Design 是其中最重要的两个领域。事实上，SWEBoK描述的是广泛共识的知识，SWEBoK V3项目组希望能建立SWEBOK每三年周期性更新的制度，持续改进知识体系。从实践的角度，Software Engineering Process 从时间维度给出了项目的过程模型（Process Models），其它则从内容角度给出了原则与方法。这样，就得到沿时间轴的二维表，这样软件工程就变成了在什么时刻、工作目标、应该做什么、怎么做的 最佳实践指南。
