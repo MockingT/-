@@ -28,6 +28,6 @@
 
 ##### UML绘图工具练习（提交贴图，必须使用 UMLet）
 
-
-
+- UML和模式应用原书第三版P103
+![picture](https://github.com/MockingT/-/blob/master/%E4%BD%9C%E4%B8%9A2/UML/pic2.png)
 
