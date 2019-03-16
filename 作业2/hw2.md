@@ -24,7 +24,7 @@
 
 ##### 看板使用练习（提交看板执行结果贴图，建议使用Git project）
 
-
+![picture](https://github.com/MockingT/-/blob/master/%E4%BD%9C%E4%B8%9A2/%E7%9C%8B%E6%9D%BF/273c706f53859c0dab5afebbbf5aa80.png)
 
 ##### UML绘图工具练习（提交贴图，必须使用 UMLet）
 
